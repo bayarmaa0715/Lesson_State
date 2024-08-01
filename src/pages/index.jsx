@@ -105,7 +105,7 @@ export default function Home() {
               setUsers(profiles);
             }}
           >
-            Veiw
+            View
           </button>
         </div>
 
